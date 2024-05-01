@@ -30,3 +30,4 @@ faster and scale effortlessly—with no cloud expertise needed.
 7. Then Launch the application with the default configurations provided by [AWS Amplify](https://aws.amazon.com/amplify/#:~:text=AWS%20Amplify%20is%20a%20set,as%20your%20use%20cases%20evolve.)
 8. Configurations may be different on type of framework / technology you are launching your application ( **REACT is my case** ).
 ### Done..!! You have launched your app successfully"# react" 
+"# react" 
